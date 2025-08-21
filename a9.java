@@ -8,8 +8,7 @@ public class a9 {
         int num1 = sc.nextInt();
         System.out.print("Enter second number: ");
         int num2 = sc.nextInt();
-
-        // Menu for operations
+        
         System.out.println("Choose an operation:");
         System.out.println("1. Addition (+)");
         System.out.println("2. Subtraction (-)");
